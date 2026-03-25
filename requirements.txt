@@ -1,1 +1,3 @@
-transformers\ndatasets\ntorch
+transformers
+datasets
+torch
